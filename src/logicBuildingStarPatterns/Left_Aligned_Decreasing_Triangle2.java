@@ -11,7 +11,6 @@ public class Left_Aligned_Decreasing_Triangle2 {
             for (int cols = 6 - rows; cols >= 1; cols--) {
 
                 System.out.print(cols);
-                
             }
 
             System.out.println();
